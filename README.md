@@ -91,8 +91,7 @@ src/
    cd react-navbar-dropdown
 2. Install dependencies:
    ```bash
-   git clone <repository_url>
-   cd neomind-navbar
+   npm install
 3. Start the development server:
    ```bash
    npm start

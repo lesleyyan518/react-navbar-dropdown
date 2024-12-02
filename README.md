@@ -88,7 +88,7 @@ src/
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd neomind-navbar
+   cd react-navbar-dropdown
 2. Install dependencies:
    ```bash
    git clone <repository_url>

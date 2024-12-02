@@ -1,4 +1,4 @@
-# Neomind Navigation Bar UI Test Assignment
+# Navigation Bar UI Design
 
 ## Overview
 

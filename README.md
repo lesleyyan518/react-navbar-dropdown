@@ -70,17 +70,22 @@ This project implements a responsive navigation bar for a design studio called *
 
 ## Project Structure
 
-src/
-├── components/
-│   └── Navbar.js   // Main navbar component
-├── pages/
-│   ├── Home.js     // Home page component
-│   ├── About.js    // About page component
-│   ├── Services.js // Services page component
-│   └── Contact.js  // Contact page component
-├── App.js          // Main application file
-├── App.css         // Styling for the application
-└── index.js        // Entry point for the React app
+
+  ```bash
+  ├── components/
+  │   ├── Navbar.js       // Main navbar component
+  │   ├── Dropdown.js     // Main dropdown component
+  │   ├── Button.js       // Main button component
+  │   └── MenuItems.js    // Main menu item component
+  ├── pages/
+  │   ├── Home.js         // Home page component
+  │   ├── Portfolio.js    // Portfolio page component
+  │   ├── Services.js     // Services page component
+  │   └── Contact.js      // Contact page component
+  ├── App.js              // Main application file
+  ├── App.css             // Styling for the application
+  └── index.js            // Entry point for the React app
+  ```
 
 
 ## How to Run the Project

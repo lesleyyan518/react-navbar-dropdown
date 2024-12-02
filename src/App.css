@@ -10,8 +10,11 @@
 .products,
 .contact-us,
 .sign-up,
-.marketing,
-.consulting {
+.UIUXDesign,
+.UXResearch,
+.DesignSystem,
+.BrandStrategy,
+.Portfolio {
   display: flex;
   height: 90vh;
   align-items: center;
@@ -24,6 +27,8 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
   color: #fff;
   font-size: 100px;
 }
@@ -33,51 +38,85 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
   color: #fff;
   font-size: 100px;
 }
 
-.products {
+.UXResearch {
   background-image: url('./images/img-3.jpg');
   background-position: center;
-  background-size: fill;
+  background-size: cover;
   background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
+  color: #fff;
+  font-size: 100px;
+}
+
+.UIUXDesign {
+  background-image: url('./images/img-4.jpg');
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
+  color: #fff;
+  font-size: 100px;
+}
+
+.DesignSystem {
+  background-image: url('./images/img-5.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
+  color: #fff;
+  font-size: 100px;
+}
+
+.BrandStrategy {
+  background-image: url('./images/img-6.jpg');
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
+  color: #fff;
+  font-size: 100px;
+}
+
+.Portfolio {
+  background-image: url('./images/img-7.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
   color: #fff;
   font-size: 100px;
 }
 
 .contact-us {
-  background-image: url('./images/img-4.jpg');
+  background-image: url('./images/img-8.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
   color: #fff;
   font-size: 100px;
 }
 
 .sign-up {
-  background-image: url('./images/img-7.jpg');
+  background-image: url('./images/img-9.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.marketing {
-  background-image: url('./images/img-6.jpg');
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
-}
-
-.consulting {
-  background-image: url('./images/img-5.jpg');
-  background-position: bottom;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.5); 
+  background-blend-mode: overlay; 
   color: #fff;
   font-size: 100px;
 }

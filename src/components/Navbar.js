@@ -31,7 +31,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-          EPIC
+          NeoMind
           <i class='fab fa-firstdraft' />
         </Link>
         <div className='menu-icon' onClick={handleClick}>
@@ -59,11 +59,11 @@ function Navbar() {
           </li>
           <li className='nav-item'>
             <Link
-              to='/products'
+              to='/Portfolio'
               className='nav-links'
               onClick={closeMobileMenu}
             >
-              Products
+              Portfolio
             </Link>
           </li>
           <li className='nav-item'>

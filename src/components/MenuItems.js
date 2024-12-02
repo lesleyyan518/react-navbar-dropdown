@@ -1,22 +1,22 @@
 export const MenuItems = [
   {
-    title: 'Marketing',
-    path: '/marketing',
+    title: 'UX Research',
+    path: '/UXResearch',
     cName: 'dropdown-link'
   },
   {
-    title: 'Consulting',
-    path: '/consulting',
+    title: 'UI/UX Design',
+    path: '/UIUXDesign',
     cName: 'dropdown-link'
   },
   {
-    title: 'Design',
-    path: '/design',
+    title: 'Design System',
+    path: '/DesignSystem',
     cName: 'dropdown-link'
   },
   {
-    title: 'Development',
-    path: '/development',
+    title: 'Brand Strategy',
+    path: '/BrandStrategy',
     cName: 'dropdown-link'
   }
 ];
